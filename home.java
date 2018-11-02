@@ -20,7 +20,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author KID_UNTAMED
+ * @author Xerllene Kwamboka
  */
 public class home extends JFrame{
 private final JButton addhouse;

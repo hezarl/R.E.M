@@ -28,7 +28,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author KID_UNTAMED
+ * @author Xerllene Kwamboka
  */
 public class client extends JFrame {
 

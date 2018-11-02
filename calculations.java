@@ -7,7 +7,7 @@ package real.estate.management;
 
 /**
  *
- * @author KID_UNTAMED
+ * @author Xerllene Kwamboka
  */
 public class calculations {
     

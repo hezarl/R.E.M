@@ -24,7 +24,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author KID_UNTAMED
+ * @author Xerllene kwamboka
  */
 public class employee extends JFrame
 {

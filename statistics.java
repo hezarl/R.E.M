@@ -17,7 +17,7 @@ import org.jfree.ui.RefineryUtilities;
 
 /**
  *
- * @author KID_UNTAMED
+ * @ authour Xerllene Kwamboka
  */
 public class statistics extends JFrame{
     
